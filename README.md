@@ -1,6 +1,6 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQEeVMHO0YH1yg/profile-displaybackgroundimage-shrink_350_1400/0/1708004199126?e=1713398400&v=beta&t=rzRbrJil5KnWXLcyqGTULwOpTcy_EkFtEQ6QmS_6zXk)
 
-## Hi there 👋, my name is Afrin
+### Hi there 👋, my name is Afrin
 #### I am GitHub Readme Generator's creator
 
 
@@ -29,5 +29,3 @@ Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=afrin823)  
 
-
-- ⚡ Fun fact: ...
