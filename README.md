@@ -5,9 +5,9 @@
 
 
 Hi, there I am a front-end developer.
-I have five years of experience in this sector. I am working on Fiverr, work, and upwork.I am passionate about learning and sharing my skills
+I have five years of experience in this sector. I am working on Fiverr, work, and upwork. I am passionate about learning and sharing my skills
 
-Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS
+Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS / React
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
