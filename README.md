@@ -4,10 +4,10 @@
 #### I am GitHub Readme Generator's creator
 
 
-Hi, there I am a front-end developer.
-I have two years of experience in this sector. I am working on Fiverr, work, and upwork. I am passionate about learning and sharing my skills
+Hi, there I am a React Front-End Developer.
+I have two years of experience in this sector. I am working on Fiverr, kwork, and upwork. I am passionate about learning and sharing my skills
 
-Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS / React / express.js / Mongodb
+Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS / JavaScript / React / Firebase / express.js / Mongodb
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
