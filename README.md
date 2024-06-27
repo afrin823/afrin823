@@ -5,7 +5,7 @@
 
 
 Hi, there I am a React Front-End Developer.
-I have two years of experience in this sector. I am working on Fiverr, kwork, and upwork. I am passionate about learning and sharing my skills
+I have two years of experience in this sector. I am working on Fiverr, kwork, and Upwork. I am passionate about learning and sharing my skills
 
 Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS / JavaScript / React / Firebase / express.js / Mongodb
 
