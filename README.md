@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afrin</h1>
 <h3 align="center">I am a Web Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=afrin823&label=Profile%20views&color=0e75b6&style=flat" alt="afrin823" /> </p>
-<div align="center">
+
+<hr/>
+<div align="justify">
   - 👨‍💻 All of my projects are available at [https://afrin-portfolio.vercel.app](https://afrin-portfolio.vercel.app)
 
 - 📫 How to reach me **afrin12490@gmail.com**
