@@ -1,28 +1,42 @@
-### Hi there 👋, my name is Afrin
-#### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/1761389752966914049/1708783804/1080x360)
+<h1 align="center">Hi 👋, I'm Afrin</h1>
+<h3 align="center">A Web Developer</h3>
 
-👋 Hi, I'm Afrin, a passionate Front-End Developer with over a year of experience in web development! I'm dedicated to crafting interactive, user-friendly applications and constantly exploring new technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afrin823&label=Profile%20views&color=0e75b6&style=flat" alt="afrin823" /> </p>
 
-Skills: HTML / CSS / Bootstrap / Tailwind CSS / JavaScript / React  / Next.js / Node.js / Express.js / MongoDB / Firebase 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrin823" alt="afrin823" /></a> </p>
 
-- 🔭 I’m currently working on Lux-Tower 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+<p align="left"> <a href="https://twitter.com/afrin025" target="blank"><img src="https://img.shields.io/twitter/follow/afrin025?logo=twitter&style=for-the-badge" alt="afrin025" /></a> </p>
 
+- 🔭 I’m currently working on **LuxTower**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afrin823)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afrin025/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afrin025)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afrin02583/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Afrin025)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afrin-portfolio.vercel.app/)  
+- 🌱 I’m currently learning **Next.js**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 👯 I’m looking to collaborate on **Github**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afrin823)](https://github.com/ryo-ma/github-profile-trophy)
+- 👨‍💻 All of my projects are available at [https://afrin-portfolio.vercel.app/](https://afrin-portfolio.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **react, JavaScript**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true)  
+- 📫 How to reach me **afrin12490@gmail.com**
 
-![GitHub metrics](https://metrics.lecoq.io/afrin823)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pjzuiQmu0aisIYofhnIdrdMgUWxon2Lq/view?usp=sharing](https://drive.google.com/file/d/1pjzuiQmu0aisIYofhnIdrdMgUWxon2Lq/view?usp=sharing)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=afrin823)  
+- ⚡ Fun fact **I have no idea how this works, but it does.😅**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/afrin025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afrin025" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afrin025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afrin025" height="30" width="40" /></a>
+<a href="https://fb.com/afrin025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afrin025" height="30" width="40" /></a>
+<a href="https://instagram.com/afrin02583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afrin02583" height="30" width="40" /></a>
+<a href="https://discord.gg/afrin_75441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afrin_75441" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrin823&show_icons=true&locale=en&layout=compact" alt="afrin823" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&locale=en" alt="afrin823" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&" alt="afrin823" /></p>
