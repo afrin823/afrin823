@@ -17,13 +17,14 @@
 <a href="https://discord.gg/afrin_75441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afrin_75441" height="30" width="40" /></a>
 </p>
 <hr/>
-<div align="justify">
-  - 👨‍💻 All of my projects are available at [https://afrin-portfolio.vercel.app](https://afrin-portfolio.vercel.app)
+- 👯 I’m looking to collaborate on **Github**
+
+- 👨‍💻 All of my projects are available at [https://afrin-portfolio.vercel.app/](https://afrin-portfolio.vercel.app/)
 
 - 📫 How to reach me **afrin12490@gmail.com**
 
 - ⚡ Fun fact **I have no idea how this works, but it does.😅**
-</div>
+
 
 
 
