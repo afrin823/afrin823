@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afrin</h1>
 <h3 align="center">I am a Web Developer </h3>
-⚡ Fun fact **I have no idea how this works, but it does.😅**
+<p align="center">⚡ Fun fact I have no idea how this works, but it does.😅</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=afrin823&label=Profile%20views&color=0e75b6&style=flat" alt="afrin823" /> </p>
 
 <hr/>
