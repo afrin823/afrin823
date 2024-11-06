@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Afrin and I'm a Web Developer</h2>
+
 - 👯 I’m looking to collaborate on **Github**
-- 👨‍💻 All of my projects are available at (https://afrin-portfolio.vercel.app/)
 
 - 📫 How to reach me **afrin12490@gmail.com**
 
