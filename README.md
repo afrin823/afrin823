@@ -8,7 +8,7 @@ Skills: HTML / CSS / Bootstrap / Tailwind CSS / JavaScript / React  / Next.js / 
 
 - 🔭 I’m currently working on Lux-Tower 
 - 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
 
@@ -21,8 +21,6 @@ Skills: HTML / CSS / Bootstrap / Tailwind CSS / JavaScript / React  / Next.js / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/afrin823/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/afrin823)  
 
