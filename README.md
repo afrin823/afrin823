@@ -1,6 +1,12 @@
 <h2 align="center">Hi 👋! My name is Afrin and I'm a Web Developer</h2>
-<p align="center">⚡ Fun fact I have no idea how this works, but it does.😅</p>
-###
+- 👯 I’m looking to collaborate on **Github**
+
+- 👨‍💻 All of my projects are available at [https://afrin-portfolio.vercel.app/](https://afrin-portfolio.vercel.app/)
+
+- 📫 How to reach me **afrin12490@gmail.com**
+
+- ⚡ Fun fact **I have no idea how this works, but it does.😅**
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
