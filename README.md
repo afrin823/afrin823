@@ -1,10 +1,12 @@
 <h2 align="center">Hi 👋! My name is Afrin and I'm a Web Developer</h2>
 
-- 👯 I’m looking to collaborate on **Github**
+<div align="center">
+  - 👯 I’m looking to collaborate on **Github**
 
 - 📫 How to reach me **afrin12490@gmail.com**
 
 - ⚡ Fun fact **I have no idea how this works, but it does.😅**
+</div>
   <hr/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
