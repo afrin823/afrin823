@@ -1,11 +1,13 @@
 <h2 align="center">Hi 👋! My name is Afrin and I'm a Web Developer</h2>
 
 <div align="center">
-  - 👯 I’m looking to collaborate on **Github**
+<p>  - 👯 I’m looking to collaborate on **Github**</p>
+  <p>- 📫 How to reach me **afrin12490@gmail.com**</p>
+  <p>- ⚡ Fun fact **I have no idea how this works, but it does.😅**</p>
 
-- 📫 How to reach me **afrin12490@gmail.com**
 
-- ⚡ Fun fact **I have no idea how this works, but it does.😅**
+
+
 </div>
   <hr/>
 <div align="center">
