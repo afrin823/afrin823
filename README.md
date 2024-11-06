@@ -1,5 +1,11 @@
 <h2 align="center">Hi 👋! My name is Afrin and I'm a Web Developer</h2>
+- 👯 I’m looking to collaborate on **Github**
+- 👨‍💻 All of my projects are available at (https://afrin-portfolio.vercel.app/)
 
+- 📫 How to reach me **afrin12490@gmail.com**
+
+- ⚡ Fun fact **I have no idea how this works, but it does.😅**
+  <hr/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,12 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 👯 I’m looking to collaborate on **Github**
-- 👨‍💻 All of my projects are available at (https://afrin-portfolio.vercel.app/)
 
-- 📫 How to reach me **afrin12490@gmail.com**
-
-- ⚡ Fun fact **I have no idea how this works, but it does.😅**
 
 
 <br clear="both">
