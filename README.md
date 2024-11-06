@@ -46,15 +46,8 @@
 - ⚡ Fun fact **I have no idea how this works, but it does.😅**
 
 
-
-###
-
-
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrin823&show_icons=true&locale=en&layout=compact" alt="afrin823" /></p>
 
 ###
