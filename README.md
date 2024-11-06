@@ -4,8 +4,8 @@
 #### I am GitHub Readme Generator's creator
 
 
-Hi, there I am a React Front-End Developer.
-I have two years of experience in this sector. I am working on Fiverr, kwork, and Upwork. I am passionate about learning and sharing my skills
+👋 Hi, I'm Afrin, a passionate Web Developer,
+with over a year of experience in web development! I'm dedicated to crafting interactive, user-friendly applications and constantly exploring new technologies.
 
 Skills: JavaScript / HTML / CSS/ Bootstrap / Tailwind CSS / JavaScript / React / Next.js / Node.js /Firebase / express.js / Mongodb
 
