@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/4173PMH/Black-and-Red-Edgy-Gaming-Youtube-Banner.png" alt="Profile Banner" style="width: 100%; max-width: 800px; height: auto;" />
+  <img src="https://i.ibb.co.com/Yt5FxG6/455036045-484102710996736-7484204989209701287-n.jpgttps://i.ibb.co.com/4173PMH/Black-and-Red-Edgy-Gaming-Youtube-Banner.png" alt="Profile Banner" style="width: 100%; max-width: 800px; height: auto;" />
   
   # Hi there! 👋 I'm Afrin
   ### Web Developer | JavaScript Enthusiast | Open Source Contributor
