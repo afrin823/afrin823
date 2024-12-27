@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/4173PMH/Black-and-Red-Edgy-Gaming-Youtube-Banner.png"/>
+<img src="https://i.ibb.co.com/4173PMH/Black-and-Red-Edgy-Gaming-Youtube-Banner.png" height="200px" style="text-algin: center"/>
 <h2 align="center">Hi 👋! My name is Afrin and I'm a Web Developer</h2>
 
 <div align="center">
