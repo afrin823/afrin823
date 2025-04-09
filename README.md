@@ -1,7 +1,7 @@
 amr github profile ta sundor o professtional vabe sajiye dao
 :
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  />
+  <img height="300" width="100%" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  />
 </div>
   
 ###
