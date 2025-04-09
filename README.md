@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=afrin823.afrin823&"  />
+  <img src="https://komarev.com/ghpvc/?username=afrin823&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ###
@@ -80,12 +80,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Hazrat-Ali9">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazrat-Ali9&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazrat-Ali9&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazrat-Ali9&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazrat-Ali9&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazrat-Ali9&theme=merko" height="180em" />
+<a href="https://github.com/afrin823">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrin823&theme=merko" height="180em" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
 </div>
 
