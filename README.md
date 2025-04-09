@@ -86,7 +86,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afrin823&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afrin823&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrin823&theme=merko" height="180em" />
-  <img alt="snake eating my contributions" src="https://github.com/afrin823/SuiteTrack-Project" />
+  <img alt="snake eating my contributions" src="hhttps://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
 </div>
 
 </div>
@@ -96,8 +96,8 @@
   
 
  
-  <img src="https://github-profile-trophy.vercel.app?username=Hazrat-Ali9&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazrat-Ali9&radius=16&theme=merko&area=true&order=5&bg_color=red" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=afrin823&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin823&radius=16&theme=merko&area=true&order=5&bg_color=red" height="300" alt="activity-graph graph"  />
 </div>
  
 
