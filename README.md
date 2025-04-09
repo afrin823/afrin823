@@ -1,28 +1,54 @@
+amr github profile ta sundor o professtional vabe sajiye dao
+:
 <div align="center">
-  <img src="https://i.ibb.co.com/JFddfdXx/afrin.jpg" width="250" style="border-radius: 50%; border: 5px solid #6e5494; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Sabikun Nahar Afrin"/>
-  
-  <h1>Sabikun Nahar Afrin</h1>
-  <h3>Full Stack Web Developer | MERN Stack Specialist</h3>
-  
-  <p>
-    <a href="https://linkedin.com/in/afrin025" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/afrin823" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:afrin12490@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/afrin12490" target="_blank">
-      <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-    </a>
-  </p>
+  <img height="300" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  />
 </div>
 
----
+###
 
-## 🛠️ Technical Stack
+<div align="center">
+  <a href="https://www.linkedin.com/in/afrin025/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Afrin025" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/afrin02583" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/afrin12490" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=afrin823&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+###
+
+<h1 align="center">Sabikun Nahar Afrin</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🌱 I'm constantly learning and improving my skills in web development
+- 👯 I'm looking to collaborate on exciting projects on GitHub
+- 📫 Reach me at: **afrin12490@gmail.com**
+- ⚡ Fun fact: I have no idea how this works, but it does. 😅</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
 
 ### Frontend Development
 <div>
@@ -40,41 +66,36 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
-
-### Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
----
+###
 
-## 📈 GitHub Stats
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823&layout=compact&theme=radical" alt="Top Languages" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&theme=merko" alt="afrin823" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&theme=radical" alt="GitHub Streak"/>
+<a href="https://github.com/afrin823">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afrin823&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrin823&theme=merko" height="180em" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
 </div>
 
----
-
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/afrin025" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
-  <a href="https://x.com/Afrin025" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/>
-  </a>
-  <a href="mailto:afrin12490@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>
-  </a>
-</p>
-
+</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afrin823&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+
+ 
+  <img src="https://github-profile-trophy.vercel.app?username=afrin823&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin823&radius=16&theme=merko&area=true&order=5&bg_color=red" height="300" alt="activity-graph graph"  />
+</div>
+ 
+
 </div>
