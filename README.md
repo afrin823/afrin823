@@ -86,7 +86,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afrin823&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afrin823&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrin823&theme=merko" height="180em" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/afrin823/SuiteTrack-Project" />
 </div>
 
 </div>
