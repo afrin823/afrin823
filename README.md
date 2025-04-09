@@ -3,9 +3,6 @@ amr github profile ta sundor o professtional vabe sajiye dao
 <div align="center">
   <img height="300" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  />
 </div>
-
-  <h1>Sabikun Nahar Afrin</h1>
-  <h3>Full Stack Web Developer | MERN Stack Specialist</h3>
   
 ###
 
@@ -33,6 +30,7 @@ amr github profile ta sundor o professtional vabe sajiye dao
 ###
 
 <h1 align="center">Sabikun Nahar Afrin</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Specialist</h3>
 
 ###
 
