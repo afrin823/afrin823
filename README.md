@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="300" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  />
+</div>
+
+###
+
+<div align="center">
   
   # Hi there! 👋 I'm Afrin
   ### Web Developer | JavaScript Enthusiast | Open Source Contributor
