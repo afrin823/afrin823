@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="300" width="100%" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  />
+  <img height="300" width="100%" src="https://i.ibb.co.com/JFddfdXx/afrin.jpg"  style="background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;" />
 </div>
   
 ###
