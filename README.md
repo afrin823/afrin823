@@ -38,7 +38,10 @@
 
 ###
 
-<p align="left">Hello, I'm Hazrat Ali, a dedicated Software Engineer with a passion for crafting robust and innovative solutions. My journey in the world of technology has been an exciting exploration, and I'm thrilled to share a bit about myself with you.<br><br>Proficient in MERN Stack and Python: I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development, harnessing the power of these technologies to build dynamic and scalable applications. Additionally, my proficiency extends to Python, where I've had the pleasure of working on diverse projects, including those leveraging the Django framework.</p>
+<p align="left">- 🌱 I'm constantly learning and improving my skills in web development
+- 👯 I'm looking to collaborate on exciting projects on GitHub
+- 📫 Reach me at: **afrin12490@gmail.com**
+- ⚡ Fun fact: I have no idea how this works, but it does. 😅</p>
 
 ###
 
