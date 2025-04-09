@@ -72,9 +72,9 @@
 ###
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=merko" alt=Hazrat-Ali9 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=merko" alt="Hazrat-Ali9" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823&layout=compact&theme=radical" alt="Top Languages" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=merko" alt="Hazrat-Ali9" /></p>
 
