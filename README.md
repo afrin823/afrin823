@@ -5,19 +5,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hazratali9/" target="_blank">
+  <a href="https://www.linkedin.com/in/afrin025/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/Hazrat_Ali9" target="_blank">
+  <a href="https://x.com/Afrin025" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/HazratAli9MM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/hazrat_ali9mm" target="_blank">
+  <a href="https://www.instagram.com/afrin02583" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/Hazrat_Ali9" target="_blank">
+  <a href="https://www.hackerrank.com/profile/afrin12490" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
@@ -25,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hazrat-Ali9.Hazrat-Ali9&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=afrin823.afrin823&"  />
 </div>
 
 ###
