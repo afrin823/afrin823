@@ -1,7 +1,7 @@
 <div align="center">
   <img height="300" width="100%" src="https://i.ibb.co.com/XfvgHg4D/afrin-2.jpg"  />
 </div>
-  
+
 ###
 
 <div align="center">
@@ -24,7 +24,6 @@
 
 ###
 
-
 <h1 align="center">Sabikun Nahar Afrin</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Specialist</h3>
 
@@ -34,14 +33,14 @@
 
 ###
 
-<p align="left">- 🌱 I'm constantly learning and improving my skills in web development
-- 👯 I'm looking to collaborate on exciting projects on GitHub
-- 📫 Reach me at: **afrin12490@gmail.com**
+<p align="left">- 🌱 I'm constantly learning and improving my skills in web development<br>
+- 👯 I'm looking to collaborate on exciting projects<br>
+- 📫 Reach me at: <strong>afrin12490@gmail.com</strong><br>
 - ⚡ Fun fact: I have no idea how this works, but it does. 😅</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 
 ###
 
@@ -67,14 +66,14 @@
 
 ###
 
-<h3 align="left">Stars</h3>
+<h3 align="left">GitHub Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823&layout=compact&theme=radical" alt="Top Languages" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&theme=merko" alt="afrin823" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&theme=merko" alt="GitHub Streak" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Detailed Stats</h3>
 <div align="center">
 <a href="https://github.com/afrin823">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afrin823&theme=merko" height="180em" />
@@ -87,12 +86,11 @@
 
 </div>
 <div align="center">
-  
-
- 
-  <img src="https://github-profile-trophy.vercel.app?username=afrin823&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin823&radius=16&theme=merko&area=true&order=5&bg_color=red" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=afrin823&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin823&radius=16&theme=merko&area=true&bg_color=red" height="300" alt="Activity Graph"  />
 </div>
- 
 
+<!-- GitHub Commit Calendar -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/afrin823" alt="GitHub Commit Chart" />
 </div>
