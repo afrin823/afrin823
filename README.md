@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="900" src="https://i.ibb.co.com/Sw76ZrRy/linkedin-Picsart-Ai-Image-Enhancer.png" alt="Banner"/>
+  <img width="900" src="https://github.com/afrin823/banner/blob/main/afrin%20(2).png" alt="Banner"/>
 </div>
 
 <br/>
