@@ -8,35 +8,40 @@
 <!-- Social Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/afrin025/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Afrin025" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1C9CEA?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/afrin02583" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-<!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afrin823&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=afrin823&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
 </div>
 
 ---
 
-<h1 align="center">Sabikun Nahar Afrin</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Specialist</h3>
+<h1 align="center">✨ Sabikun Nahar Afrin ✨</h1>
+<h3 align="center">
+  Full Stack Web Developer • MERN Stack
+</h3>
+
+<p align="center">
+  Crafting clean, scalable & user-focused web experiences
+</p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Passionate about building modern web applications  
-- 👯 Open to collaboration & freelance opportunities  
-- 📫 Email: **afrin12490@gmail.com**  
-- ⚡ Fun fact: Debugging taught me patience more than life 😄  
+- 🌱 Passionate about modern web technologies  
+- 🤝 Open to collaboration & remote opportunities  
+- 📫 **Email:** afrin12490@gmail.com  
+- ⚡ Fun fact: I enjoy turning complex problems into simple UI ✨  
 
 ---
 
@@ -44,54 +49,54 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-4F8DF5?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F6C90E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### ⚙ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-4CAF50?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-2E2E2E?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-2FA44F?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&theme=merko"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823&layout=compact&theme=merko"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afrin823&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin823&layout=compact&theme=tokyonight"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&theme=merko"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=afrin823&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afrin823&theme=matrix&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=afrin823&theme=algolia&row=1&column=6"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity Overview
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin823&theme=merko&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin823&theme=tokyo-night&area=true"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/afrin823" alt="GitHub Commit Chart"/>
+  <img src="https://ghchart.rshah.org/8B5CF6/afrin823" alt="GitHub Commit Chart"/>
 </div>
 
 ---
