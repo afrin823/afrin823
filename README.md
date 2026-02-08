@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%"src="https://i.ibb.co.com/848KvFLV/Helene-Paquet.png"  />
+<img width="800" src="https://i.ibb.co/848KvFLV/Helene-Paquet.png" />
+
 </div>
 
 ###
