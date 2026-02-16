@@ -89,8 +89,4 @@
 
 ---
 
-<div align="center">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg"/>
-</div>
+
