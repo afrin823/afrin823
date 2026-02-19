@@ -28,7 +28,7 @@
 ---
 
 <h1 align="center">Sabikun Nahar Afrin</h1>
-<h3 align="center">Full Stack Web Developer (MERN)</h3>
+<h3 align="center"> Web Developer (MERN)</h3>
 
 <p align="center">
   Building real-world web applications with clean code & scalable architecture
